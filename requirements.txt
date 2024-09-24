@@ -2,3 +2,4 @@ fastapi[all]
 uvicorn
 pdfplumber
 python-multipart
+requests
